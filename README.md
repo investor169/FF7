@@ -1,6 +1,3 @@
-# FF7
-Parody
-
 # 🎭 FF7 - Dark Theme (Alternative Universe Novel)
 
 ## 📝 Tổng Quan Dự Án (Project Overview)
