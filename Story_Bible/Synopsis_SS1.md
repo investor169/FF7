@@ -6,9 +6,10 @@ The world of Final Fantasy VII is stripped of its heroic facade. Behind the Nibe
 ## 2. Macro Plot Structure
 
 ### Act 1: Seeds in the Dark (Timeline: 2000 - 2001)
-*   **Narrative Focus:** Exploring the grim psychological isolation within Nibelheim. It deeply deconstructs the shifting dynamics and strained relationship between Cloud Strife (Until 2002) and Tifa Lockhart across chronological milestones (2000, 2001). 
-*   **The Catalyst Characters:** The arrival and quiet influence of Jack Smith, Jim Smith, and Joe Smith, alongside the hostile micro-society formed by the village boys (`Nibelheim_Outcast` - Lits, Mette, Flag).
-*   **Core Setting:** The old barn (`The_Barn_(Nibelhelm)`) serves as the central anchor for forbidden meetings, buried secrets, and the gritty, unvarnished interactions that shape the characters' fragile psyches before the ultimate tragedy.
+*   **Narrative Focus:** Exploring the grim psychological isolation within Nibelheim and the sharp contrast between idealistic worship and raw, physical reality. It deeply deconstructs the shifting dynamics between Cloud Strife, Tifa Lockhart, and the Smith brothers (Jacky and Jimmy) across chronological milestones.
+*   **The Trust & Deception:** Following the classic Water Tower promise in late Spring 2000, Cloud departs Nibelheim, leaving Tifa behind. Jacky and Jimmy capitalize on her absolute, childlike trust and naive empathy, utilizing feigned fatigue and calculated requests for comfort to bypass her defensive thoughts.
+*   **The Somatic Re-Education (The Daily Loop):** Tifa is systematically initiated into full physical co-ownership inside `The_Barn_Nibelhelm`. Her body undergoes a rapid progression: transitioning from initial friction (Day 1) to multi-location daily loops and shared double-team sessions. Driven by her awakening Maso instinct, she conditions herself to equate masculine dominance with peak physical pleasure (0:10 ratio).
+*   **The Physiological Boundaries Broken:** As the timeline progresses toward Winter 2000, her limits are pushed through intensive rear gate conditioning, culminating in her very first Simultaneous Dual Penetration during Christmas. Throughout this heavy routine, her **passive `Heaven Restore`** capability automatically triggers to heal physical tissue friction and soreness, while leaving her naturally exhausted and spent, deepening her mental and physical attachment to both brothers throughout 2001.
 
 ### Act 2: The Fracture Point (Timeline: 2002)
 *   **Narrative Focus:** The catastrophic Nibelheim Incident erupts, stripped of anime-style romanticism and reframed as a raw, terrifying war crime.
