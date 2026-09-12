@@ -1,19 +1,20 @@
 # 📖 NARRATIVE SYNOPSIS: FF7 - DARK THEME (SEASON 1)
 
-## 1. Tiền Đề Tổng Quan (Season 1 Premise)
-Thế giới của Final Fantasy VII được lật tẩy lớp vỏ bọc anh hùng. Phía sau sự cố Nibelheim và hành trình của Cloud Strife không phải là định mệnh vĩ đại, mà là một chuỗi những chấn thương tâm lý bị vùi lấp, sự tàn độc của tập đoàn Shinra, và cuộc sinh tồn tuyệt vọng của những con người bình thường bị cuốn vào vòng xoáy của các thế lực tối cao.
+## 1. Season 1 Premise
+The world of Final Fantasy VII is stripped of its heroic facade. Behind the Nibelheim Incident and Cloud Strife's journey lies a dark sequence of buried psychological trauma, corporate cruelty by Shinra, and the brutal survival of ordinary individuals caught in the crossfire of overwhelming forces. 
 
-## 2. Cấu Trúc Tuyến Truyện Tổng Quan (Macro Plot Structure)
+## 2. Macro Plot Structure
 
-### Hồi 1: Những Mầm Mống Trong Bóng Tối (Mốc năm 2000 - 2001)
-*   **Trọng tâm:** Khai thác sự cô lập tại Nibelheim. Mối quan hệ giữa Cloud (tới hết 2002) với Tifa qua các năm (2000, 2001, 2002). Sự xuất hiện mang tính định hình của các nhân vật như Jack, Jim, Joe Smith và những đứa trẻ trong làng (Lits, Mette, Flag).
-*   **Không gian cốt lõi:** Ngôi nhà kho (`The_Barn`) trở thành biểu tượng cho những bí mật, những buổi gặp gỡ vụng trộm hoặc những sự kiện u ám thay đổi tâm lý nhân vật trước khi thảm kịch lớn diễn ra.
+### Act 1: Seeds in the Dark (Timeline: 2000 - 2001)
+*   **Narrative Focus:** Exploring the grim psychological isolation within Nibelheim. It deeply deconstructs the shifting dynamics and strained relationship between Cloud Strife (Until 2002) and Tifa Lockhart across chronological milestones (2000, 2001). 
+*   **The Catalyst Characters:** The arrival and quiet influence of Jack Smith, Jim Smith, and Joe Smith, alongside the hostile micro-society formed by the village boys (`Nibelheim_Outcast` - Lits, Mette, Flag).
+*   **Core Setting:** The old barn (`The_Barn_(Nibelhelm)`) serves as the central anchor for forbidden meetings, buried secrets, and the gritty, unvarnished interactions that shape the characters' fragile psyches before the ultimate tragedy.
 
-### Hồi 2: Điểm Gãy Định Mệnh (Mốc năm 2002)
-*   **Trọng tâm:** Sự cố Nibelheim (Nibelheim Incident) bùng nổ dưới một góc nhìn trần trụi và đen tối hơn nhiều so với nguyên tác.
-*   **Vai trò nhân vật:** Sự can dự của 4 lính bộ binh Shinra (The 4 Shinra Infantrymen) không còn là những cái bóng vô danh, mà đại diện cho góc nhìn của những kẻ thực thi tội ác dưới áp lực hệ thống. Cuộc đấu tranh sinh tồn tuyệt vọng của Claudia Strife và sự bất lực của võ sư Zangan khi cố gắng cứu vãn những gì còn sót lại từ đống tro tàn.
-*   **Biến cố cốt lõi:** Sự cố Nibelheim bùng nổ. Toàn bộ ngôi làng bị hủy diệt. 
-*   **Số phận nhân vật:** Đánh dấu cái chết bi thảm và trần trụi của Jack Smith, Jim Smith, và Joe Smith và toàn bộ dân làng Nibelhelm trong ngọn lửa thảm kịch, đẩy cao sự tàn khốc của sự kiện này.
+### Act 2: The Fracture Point (Timeline: 2002)
+*   **Narrative Focus:** The catastrophic Nibelheim Incident erupts, stripped of anime-style romanticism and reframed as a raw, terrifying war crime.
+*   **The Systematic Annihilation:** Shinra forces—specifically the 4 Shinra Infantrymen acting under systemic pressure—execute a total scorched-earth purge. Claudia Strife is brutally murdered, and the Smith brothers (Jack, Jim, Joe) are hopelessly trapped and wiped out due to the bottleneck geography of the village.
+*   **The Black Box Timeline (Hidden NTR Framework):** Following the critical confrontation with Sephiroth, Cloud Strife collapses and **blacks out completely**, entering a comatose state before being dragged away by Shinra's cleanup crews. This blackout creates a terrifying void in his memory. 
+*   **The Unmonitored Horrors:** While Cloud is unconscious, a **critically exhausted Tifa** is left exposed in the burning ruins, enduring the raw, unmonitored horrors of the aftermath. Zangan uses his desperate martial prowess to break through the blockade and rescue her, but the traumatic events that transpired during Cloud's blackout remain a dark, unspoken gap hidden in the ashes.
 
-## 3. Định Hướng Kết Cục (Dark Theme Resolution)
-Câu chuyện không hướng tới một kết thúc có hậu (Happy Ending) theo kiểu cứu rỗi thế giới. Kết thúc là sự chấp nhận thực tế tàn khốc, nơi các nhân vật sống sót (Tifa 2002, Cloud 2002) mang theo những vết sẹo tâm lý vĩnh viễn không thể chữa lành, định hình nên những bản ngã lạnh lùng và gai góc hơn để đối mặt với tương lai.
+## 3. Dark Theme Resolution
+Season 1 does not conclude with heroic salvation or closure. The ending is a cold, gritty realization of survival. The characters who make it out alive—a heavily traumatized Tifa Lockhart (2002) and a shattered, dissociated Cloud Strife—carry permanent psychological scars, forcing them to adopt a numb, ruthless, and defensive shell to face the bleak future ahead.
