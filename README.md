@@ -7,7 +7,7 @@
 Dưới đây là bản đồ phân cấp dữ liệu của tiểu thuyết. AI cần bám sát sơ đồ này để hiểu mối quan hệ giữa các file:
 
 *   📁 `Story_Bible/` (Kho lưu trữ cốt lõi của tác phẩm)
-    *   📄 `Braindump.md` : Nơi ghi lại mọi ý tưởng bộc phát, suy nghĩ lộn xộn và chất liệu thô trước khi phân loại.
+    *   📄 `Braindump_from_2000_to_2002.md` : Nơi lưu trữ toàn bộ ý tưởng thô, các tình tiết bộc phát, và manh mối khuất tất diễn ra trong dòng thời gian từ năm 2000 đến hết năm 2002.
     *   📄 `Genre.md` : Định hình thể loại (Dark Fantasy, Cyberpunk, Psychological...) và các motif chính của truyện.
     *   📄 `Style.md` : Quy định về văn phong, tông giọng u ám, nhịp độ và nghệ thuật kể chuyện.
     *   📄 `Synopsis_SS1.md` : Bản tóm tắt cốt truyện riêng cho **Season 1** (Mở đầu, Biến cố, Cao trào, Kết thúc của SS1).
