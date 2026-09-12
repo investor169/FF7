@@ -3,8 +3,8 @@
 ## 1. THE ARCHIVAL BIRTH YEAR MATRIX (THE SYSTEM HIDDEN INDEX)
 The AI must utilize this centralized chronological index to calculate character growth, physical maturity, and generational gaps across the narrative, without repeating these metrics inside the individual character profiles:
 - Female Protagonist (Tifa Lockhart): Born in Birth Year 1987.
-- Primary Master (Jack Smith): Born in Birth Year 1975.
-- Co-Owner (Jim Smith): Born in Birth Year 1977.
+- Primary Master (Jack Smith): Born in Birth Year 1980.
+- Co-Owner (Jim Smith): Born in Birth Year 1982.
 - Tragic Foil (Cloud Strife): Born in Birth Year 1986.
 - The Village Boys (Lits, Mette, Flag): All born in Birth Year 1977.
 
