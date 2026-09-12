@@ -30,3 +30,11 @@
   - Childhood Hero Promise: Cloud views Tifa as his ultimate motivation. He left the village solely to become strong enough to protect her, anchoring his soul to the promise they made under the Nibelheim water tower.
   - The One-Sided Distance: He has no idea that the moment he leaves in March 2000, Jack immediately claims her virginity. While Cloud spends two years dreaming of her purity, Tifa’s heart and frame are completely trained, expanded, and claimed by the Smith brothers.
   - Tragic Blindspot: He remains completely blind to her submissive transformation, her newly unlocked voyeurism, her sessions with Joe, and her horrific 15-hour ordeal at the reactor, leaving him with an idealized, shattered memory of a girl who no longer exists.
+
+# Dark Theme Alignment
+
+  * Inferiority_Complex: Heavily consumed by a deep-seated sense of helplessness and weakness as an anonymous infantryman. This failure triggers silent envy toward real heroes and an unhealthy fixation on proving his strength.
+  * Defense_Mechanism: Utilizes a strict "Mask of Apathy" (aloof and uncommunicative demeanor) prior to 2002 to shield his severe social anxiety, vulnerability, and intense fear of rejection by Tifa and the villagers.
+  * Dissociative_Tendencies: Possesses a fragile, highly volatile psyche under extreme stress. Prone to distorting reality or forcibly suppressing memories as a coping mechanism to avoid facing humiliating failures.
+  * SudoLinks: Bound by intricate, claustrophobic psychological nodes to `TifaLockhart2002`, `Zangan&ClaudiaStrife`, and fueled by a repressed hatred toward the village boys (`The Village Boys in Nibelhelm (Lits, Mette, Flag)` - Lits, Mette, Flag).
+  * Fracture_Trigger: Complete identity collapse initiated by witnessing his mother's murder and the agonizing deaths of Jack, Jim, and Joe Smith. The ultimate point of fracture occurs when he is knocked unconscious/blacks out completely after the confrontation with Sephiroth. This blackout creates a terrifying void in his memory—rendering him entirely helpless and oblivious to whatever horrors a critically exhausted Tifa had to endure before Zangan rescued her. The ambiguity and hidden, unsettling discrepancies (Hidden NTR framework) discovered after regaining consciousness serve as the primary engine that psychologically ravages his mind.
