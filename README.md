@@ -9,8 +9,8 @@ Dưới đây là bản đồ phân cấp dữ liệu của tiểu thuyết. AI 
 *   📁 `Story_Bible/` (Kho lưu trữ cốt lõi của tác phẩm)
     *   📄 `Braindump.md` : Nơi ghi lại mọi ý tưởng bộc phát, suy nghĩ lộn xộn và chất liệu thô trước khi phân loại.
     *   📄 `Genre.md` : Định hình thể loại (Dark Fantasy, Cyberpunk, Psychological...) và các motif chính của truyện.
-    *   📄 `Style.md` : Quy định về văn phong, tông giọng (u ám, thực tế, nặng nề), nhịp độ và nghệ thuật kể chuyện.
-    *   📄 `Synopsis.md` : Bản tóm tắt toàn bộ nội dung cốt truyện (Mở đầu, Biến cố, Cao trào, Kết thúc).
+    *   📄 `Style.md` : Quy định về văn phong, tông giọng u ám, nhịp độ và nghệ thuật kể chuyện.
+    *   📄 `Synopsis_SS1.md` : Bản tóm tắt cốt truyện riêng cho **Season 1** (Mở đầu, Biến cố, Cao trào, Kết thúc của SS1).
     *   📁 `Characters/` (Thư mục quản lý nhân vật)
         *   📄 `Cloud_Strife_Until_2002.md` : Hồ sơ nhân vật Cloud Strife giai đoạn đến năm 2002.
         *   📄 `Jack_Smith.md` : Hồ sơ nhân vật Jack Smith.
