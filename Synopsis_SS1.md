@@ -12,6 +12,8 @@ Thế giới của Final Fantasy VII được lật tẩy lớp vỏ bọc anh h
 ### Hồi 2: Điểm Gãy Định Mệnh (Mốc năm 2002)
 *   **Trọng tâm:** Sự cố Nibelheim (Nibelheim Incident) bùng nổ dưới một góc nhìn trần trụi và đen tối hơn nhiều so với nguyên tác.
 *   **Vai trò nhân vật:** Sự can dự của 4 lính bộ binh Shinra (The 4 Shinra Infantrymen) không còn là những cái bóng vô danh, mà đại diện cho góc nhìn của những kẻ thực thi tội ác dưới áp lực hệ thống. Cuộc đấu tranh sinh tồn tuyệt vọng của Claudia Strife và sự bất lực của võ sư Zangan khi cố gắng cứu vãn những gì còn sót lại từ đống tro tàn.
+*   **Biến cố cốt lõi:** Sự cố Nibelheim bùng nổ. Toàn bộ ngôi làng bị hủy diệt. 
+*   **Số phận nhân vật:** Đánh dấu cái chết bi thảm và trần trụi của Jack Smith, Jim Smith, và Joe Smith và toàn bộ dân làng Nibelhelm trong ngọn lửa thảm kịch, đẩy cao sự tàn khốc của sự kiện này.
 
 ## 3. Định Hướng Kết Cục (Dark Theme Resolution)
 Câu chuyện không hướng tới một kết thúc có hậu (Happy Ending) theo kiểu cứu rỗi thế giới. Kết thúc là sự chấp nhận thực tế tàn khốc, nơi các nhân vật sống sót (Tifa 2002, Cloud 2002) mang theo những vết sẹo tâm lý vĩnh viễn không thể chữa lành, định hình nên những bản ngã lạnh lùng và gai góc hơn để đối mặt với tương lai.
