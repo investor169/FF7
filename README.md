@@ -28,8 +28,10 @@ Dưới đây là bản đồ phân cấp dữ liệu của tiểu thuyết. AI 
         *   📄 `The_Barn_Nibelhelm.md` : Thiết lập bối cảnh nhà kho — không gian cụ thể phục vụ cho các tình tiết đặc biệt/u ám trong truyện.
         *   📄 `The_Reactor_Warehouse_MT_NIBEL.md` : Kho công nghiệp khuất sau Mako Reactor trên núi — "hộp đen" diễn ra thảm kịch năm 2002.
     *   📁 `Outline/` (Thư mục dàn ý chi tiết)
-        *   📄 `Act_1_The_Midgar_Hell.md` : Dàn ý chi tiết cho Hồi 1.
-        *   📄 `Act_2_The_Chasing.md` : Dàn ý chi tiết cho Hồi 2.
+        *   📁 `Season_1/` (Thư mục dàn ý chi tiết cho Season 1)
+            *   📄 `CHAPTER_1.md` : Dàn ý chi tiết cho Chương 1.
+            *   📄 `CHAPTER_2.md` : Dàn ý chi tiết cho Chương 2.
+            *   📄 `CHAPTER_3.md` : Dàn ý chi tiết cho Chương 3.
 *   📁 `Manuscript/` (Thư mục chứa các chương truyện thực tế)
     *   📄 `Chapter_01.md` : Chương 1.
     *   📄 `Chapter_02.md` : Chương 2.
