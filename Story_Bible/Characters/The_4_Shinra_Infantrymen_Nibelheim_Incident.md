@@ -30,7 +30,11 @@
   - Primal Claim: They treat her with zero respect, completely objectifying her as a temporary war prize inside the burning town. They ruthlessly exploit her voluptuous, full-figured physique—ravaging her towering 1.65m height, her heavy, bouncing C-cup boobs, her slender snatched waist, flared wide hips, and round, heavy buttocks. They flood her tight cunt and hyper-responsive pussy with endless rounds of heavy cum over the 15-hour span.
   - Helpless Submission: She has no psychological blindspot or protective trust with these men; she is genuinely terrified of their violent presence. Yet, when pinned down by their massive builds and Big/Huge sizes, her natural defense mechanism is to freeze, weep, and obediently swallow or take their cocks, completely broken by the primal masculine authority they ruthlessly inflict upon her mature, voluptuous body until she enters absolute cam chịu (resigned submission).
 
+# Systemic Cruelty & Opportunism
 
+ * The Mob Mentality: As individual infantrymen, they are merely faceless grunts following corporate orders. However, when grouped together under the chaotic lawlessness of the Nibelheim Incident, their pack mentality completely erases any remaining moral boundaries, turning military pressure into raw, unchecked malice and a sudden desire for primal dominance.
+ * Cold Opportunism: They do not act out of personal hatred toward Tifa, but purely out of ruthless opportunism. Recognizing a highly capable, usually untouchable martial artist who is temporarily depleted of energy, they systematically coordinate their actions. They utilize their numbers and the total isolation of `The_Reactor_Warehouse_MT_NIBEL` to take what they see as a temporary "war prize."
+ * The Detachment Protocol: After satisfying their impulses, they display zero guilt, panic, or emotional attachment. They coldly adjust their military gear, pack up their equipment, and desert the scene to return to their units or flee, completely indifferent to the aftermath and leaving the exhausted victim behind on the mattress without a second thought.
 
 
 
