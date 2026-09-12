@@ -12,7 +12,7 @@ Dưới đây là bản đồ phân cấp dữ liệu của tiểu thuyết. AI 
     *   📄 `Style.md` : Quy định về văn phong, tông giọng u ám, nhịp độ và nghệ thuật kể chuyện.
     *   📄 `Synopsis_SS1.md` : Bản tóm tắt cốt truyện riêng cho **Season 1** (Mở đầu, Biến cố, Cao trào, Kết thúc của SS1).
     *   📁 `Characters/` (Thư mục quản lý nhân vật)
-        *   📄 `Cloud_Strife_(Until_end_of_2002).md` : Hồ sơ nhân vật Cloud Strife giai đoạn đến hết năm 2002.
+        *   📄 `Cloud_Strife_Until_end_of_2002.md` : Hồ sơ nhân vật Cloud Strife giai đoạn đến hết năm 2002.
         *   📄 `Jack_Smith.md` : Hồ sơ nhân vật Jack Smith.
         *   📄 `Jim_Smith.md` : Hồ sơ nhân vật Jim Smith.
         *   📄 `Joe_Smith.md` : Hồ sơ nhân vật Joe Smith.
