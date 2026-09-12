@@ -17,7 +17,7 @@ Dưới đây là bản đồ phân cấp dữ liệu của tiểu thuyết. AI 
         *   📄 `Jim_Smith.md` : Hồ sơ nhân vật Jim Smith.
         *   📄 `Joe_Smith.md` : Hồ sơ nhân vật Joe Smith.
         *   📄 `The_4_Shinra_Infantrymen_Nibelheim_Incident.md` : Nhóm 4 lính bộ binh Shinra trong sự cố Nibelheim.
-        *   📄 `The_Village_Boys_in_Nibelheim_Lits_Mette_Flag.md` : Nhóm thiếu niên tại Nibelheim (Lits, Mette, Flag).
+        *   📄 `Nibelhelm_Outcast.md` : Nhóm thiếu niên tại Nibelheim (Lits, Mette, Flag).
         *   📄 `Zangan_&_Claudia_Strife.md` : Hồ sơ về võ sư Zangan và Claudia Strife (mẹ của Cloud).
         *   📄 `Tifa_Lockhart_2000.md` : Hồ sơ nhân vật Tifa Lockhart năm 2000.
         *   📄 `Tifa_Lockhart_2001.md` : Hồ sơ nhân vật Tifa Lockhart năm 2001.
